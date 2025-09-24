@@ -1,8 +1,8 @@
-site_name: Template de Entrega
-site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
-repo_name: github/documentation.template
+site_name: projeto_individual-grupo
+site_author: Luise Pessoa Bastos 
+site_url: https://luisebastos.github.io/projeto_individual-grupo
+repo_url: https://github.com/luisebastos/projeto_individual-grupo
+repo_name: github/projeto_individual-grupo
 
 theme:
   name: material
@@ -110,7 +110,7 @@ plugins:
       enable_creation_date: true
   - git-authors
   - git-committers:
-      repository: hsandmann/documentation.template
+      repository: luisebastos/projeto_individual-grupo
       branch: main
   - search
   - badges
